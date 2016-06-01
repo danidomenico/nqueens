@@ -1,0 +1,45 @@
+Size: 15 X 15
+Threads: 1
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58505025;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58514324;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58520586;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58503776;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58514698;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58515605;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58508200;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58496627;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58489983;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 1;cut_off: 4;time: 58492460;solutions: 2279184
+Threads: 2
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29461149;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29460403;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29449937;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29545428;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29494157;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29395510;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29466076;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29431735;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29464025;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 2;cut_off: 4;time: 29506113;solutions: 2279184
+Threads: 4
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15614415;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15583214;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15659076;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15593404;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15656286;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15606252;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15627398;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15622912;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15658546;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 4;cut_off: 4;time: 15644089;solutions: 2279184
+Threads: 8
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12686931;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12711947;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12711286;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12602888;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12565390;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12573935;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12606448;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12544752;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12576686;solutions: 2279184
+Nqueens openmp_task;size: 15;threads: 8;cut_off: 4;time: 12550725;solutions: 2279184

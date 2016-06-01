@@ -1,0 +1,30 @@
+
+#set terminal pdfcairo enhanced #dashed font 'Arial,8' fontscale 1.0 size 4,3.5
+set terminal svg enhanced #dashed font 'Arial,8' fontscale 1.0 size 4,3.5
+set border 3
+set autoscale
+set xtics 1 nomirror
+set ytics 50 nomirror
+set yrange [0:*]
+set xrange [0.5:2.5]
+set xlabel "Tamanho da entrada" # offset -1,-1
+set ylabel "Tempo (segundos)" offset 2, 2
+set key box left top Left reverse spacing 1.2 #font 'Arial,8' width -10
+#set key box outside center top horizontal Left reverse font 'Arial,8'
+set datafile separator ";"
+#set title "saxpy"
+set macros 
+
+load 'gnuplot.gpi'
+
+set boxwidth 0.2
+set style fill transparent solid 1
+
+#set output "pdf/version.pdf"
+set output "pdf/version.svg"
+
+plot \
+	'stats-version.csv' using ($1-0.2):3 with boxes t "Sem poda" ls 1,\
+	'stats-version.csv' using 1:4:xtic(2) with boxes t "Cláusula if" ls 2,\
+	'stats-version.csv' using ($1+0.2):5 with boxes t "Manual" ls 3,\
+	

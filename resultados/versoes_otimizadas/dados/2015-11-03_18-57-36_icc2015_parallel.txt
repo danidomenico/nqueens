@@ -1,0 +1,45 @@
+Size: 15 X 15
+Threads: 1
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46725551;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46726909;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46724175;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46764956;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46761339;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46756476;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46730537;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46744401;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46743581;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 1;cut_off: 0;time: 46740472;solutions: 2279184
+Threads: 2
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28326539;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28330295;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28394306;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28382827;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28378831;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28331700;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28336459;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28325130;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28324266;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 2;cut_off: 0;time: 28332879;solutions: 2279184
+Threads: 4
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17243107;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17344996;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17150067;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17510727;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 16344746;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17141019;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17496944;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 16352638;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17883288;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 4;cut_off: 0;time: 17533273;solutions: 2279184
+Threads: 8
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12604873;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12606749;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12715074;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12035714;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12050059;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12858421;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12069178;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 12458696;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 13200128;solutions: 2279184
+Nqueens openmp_parallel;size: 15;threads: 8;cut_off: 0;time: 13091588;solutions: 2279184

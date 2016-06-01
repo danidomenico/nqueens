@@ -1,0 +1,32 @@
+
+#set terminal pdfcairo enhanced #dashed font 'Arial,8' fontscale 1.0 size 4,3.5
+set terminal svg enhanced #dashed font 'Arial,8' fontscale 1.0 size 4,3.5
+
+set border 3
+set autoscale
+set xtics 1 nomirror 
+set ytics nomirror
+set yrange [0:*]
+set xrange [0.8:4]
+set xlabel "Threads" # offset -1,-1
+set ylabel "Tempo (segundos)" offset 2, 2
+set key box right top Left reverse spacing 1.2 #font 'Arial,8' width -10
+set datafile separator ";"
+#set title "saxpy"
+set macros 
+
+load 'gnuplot.gpi'
+
+#set output "pdf/tempo.pdf"
+set output "pdf/tempo.svg"
+
+plot \
+	'stats-tempo-task-gcc.csv' using 1:3:xtic(2) with linespoints t "GCC-tasks" ls 1 pt 3,\
+	'stats-tempo-task-icc.csv' using 1:3:xtic(2) with linespoints t "ICC13-tasks" ls 2 pt 3,\
+	'stats-tempo-task-icc2015.csv' using 1:3:xtic(2) with linespoints t "ICC15-tasks" ls 3 pt 3,\
+	'stats-tempo-task-pgi.csv' using 1:3:xtic(2) with linespoints t "PGI-tasks" ls 4 pt 3,\
+	'stats-tempo-parallel-gcc.csv' using 1:3:xtic(2) with linespoints t "GCC-laço paralelo" ls 1 pt 13,\
+	'stats-tempo-parallel-icc.csv' using 1:3:xtic(2) with linespoints t "ICC13-laço paralelo" ls 2 pt 13,\
+	'stats-tempo-parallel-icc2015.csv' using 1:3:xtic(2) with linespoints t "ICC15-laço paralelo" ls 3 pt 13,\
+	'stats-tempo-parallel-pgi.csv' using 1:3:xtic(2) with linespoints t "PGI-laço paralelo" ls 4 pt 13,\
+	

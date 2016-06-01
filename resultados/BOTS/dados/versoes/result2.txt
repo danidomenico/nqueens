@@ -1,0 +1,14 @@
+Threads: 4
+Cut-off: 4
+Size: 15 X 15
+Sem Cutoff
+Computing N-Queens algorithm (n=15)  completed!
+N Queens;N=15;OpenMP (using tasks);none;4;Not requested;561.074517;n/a;n/a;0.00;0.00;
+Computing N-Queens algorithm (n=15)  completed!
+N Queens;N=15;OpenMP (using tasks);none;4;Not requested;562.909901;n/a;n/a;0.00;0.00;
+Computing N-Queens algorithm (n=15)  completed!
+N Queens;N=15;OpenMP (using tasks);none;4;Not requested;564.481353;n/a;n/a;0.00;0.00;
+Computing N-Queens algorithm (n=15)  completed!
+N Queens;N=15;OpenMP (using tasks);none;4;Not requested;561.715809;n/a;n/a;0.00;0.00;
+Computing N-Queens algorithm (n=15)  completed!
+N Queens;N=15;OpenMP (using tasks);none;4;Not requested;572.183611;n/a;n/a;0.00;0.00;
